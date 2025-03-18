@@ -2,7 +2,7 @@
   <img width="800" src="screenshot.jpg" alt="Bolt-Connector">
 </p>
 
---------------
+---------------
 
 ## Bolt Connector App
 A GUI tool for generating the full-range trilinear force-elongation response of high-strength steel bolts. This can be used in FE model with bolt axial connectors as well as mechanical component-based models.
