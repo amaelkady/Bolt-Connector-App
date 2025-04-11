@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="800" src="screenshot.jpg" alt="Bolt-Connector">
+  <img width="800" src="misc\screenshot.jpg" alt="Bolt Connector App">
+  <img width="800" src="misc\BoltApp-gif.jpg" alt="Bolt Connector App GIF">
 </p>
 
 ---------------
