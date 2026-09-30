@@ -2,7 +2,7 @@
   <img width="800" src="misc\BoltApp-gif.gif" alt="Bolt Connector App GIF">
 </p>
 
-# NEW: The bolt connector app is now also available through an [online app]([https://amaelkady.github.io/ABAQUS%20Tools.html](https://amaelkady.github.io/Bolt%20Connector%20Model.html))
+# NEW: The bolt connector app is now also available through an [online app](https://amaelkady.github.io/Bolt%20Connector%20Model.html)
 
 ---------------
 
